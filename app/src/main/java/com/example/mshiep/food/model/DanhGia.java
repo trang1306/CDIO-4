@@ -6,6 +6,7 @@ public class DanhGia {
     int rate;
     String comment;
     String tenKhachHang;
+    String oder;
 
     public DanhGia(String maDanhGia, String maMonAn, int rate, String comment, String tenKhachHang) {
         this.maDanhGia = maDanhGia;
